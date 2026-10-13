@@ -4,6 +4,7 @@
 <p align="left">
 <a href="https://codepen.io/lagilaper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="lagilaper" height="30" width="40" /></a>
 <a href="https://instagram.com/yanz.xd5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yanz.xd5" height="30" width="40" /></a>
+<a href="https://discord.gg/yanzoujisan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yanzoujisan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
